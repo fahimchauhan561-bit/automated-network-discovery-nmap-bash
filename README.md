@@ -36,7 +36,7 @@ The Bash script automates multiple network scanning tasks, including host discov
 automated-network-discovery-nmap-bash/
 │
 ├── network_discovery.sh
-├── README.md
+|
 │
 └── scan_results/
     ├── live_hosts.txt
